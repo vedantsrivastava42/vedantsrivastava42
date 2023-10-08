@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vedant Srivastava</h1>
+<h1 align="center">WELCOME to my GitHub!</h1>
 <h3 align="center">A zealous student software developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47g4rmkwxmz0ith585jjfd3hart308bro586p3mgt4&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantsrivastava42&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsrivastava42" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantsrivastava42" alt="vedantsrivastava42" /></a> </p>
